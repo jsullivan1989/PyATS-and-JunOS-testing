@@ -12,11 +12,11 @@ The first step is to create a virtual environment to house your testbed and test
 
 Next activate the virtual environment.
 
-'source {virtual environment name}/bin/activate'
+`source {virtual environment name}/bin/activate`
 
 Install the pyATS packages 
 
-'pip install pyats[full]'
+`pip install pyats[full]`
 
 
 
