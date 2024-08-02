@@ -8,6 +8,7 @@ Since PyATS was made open source, it features multi-vendor parsing allowing it t
 The first step is to create a virtual environment to house your testbed and testscripts.  Run the command below to create a virtual environment with python3.
 
 `cd /path/`
+
 `python3 -m venv {virtual environment name}` 
 
 Next activate the virtual environment.
