@@ -1,4 +1,4 @@
-# PyATS-and-JunOS-testing
+# PyATS and JunOS Testing
 Repository for testscripts and testbeds related to the multivendor testing between PyATS and JunOS.  
 
 PyATS is a Python testing framework which was developed internally at Cisco.  Later on, it was made open source and is now used far and wide for network test automation.
